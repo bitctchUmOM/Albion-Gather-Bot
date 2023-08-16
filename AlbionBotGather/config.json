@@ -1,0 +1,9 @@
+{   
+    "cnn": 0.5,
+    "skills": [["q", "e", "w", "d"], [3, 12, 13, 40]],
+    "profile": 1,
+    "timeout_looting": 3,
+    "timeout_map": 2,
+    "loot_similarity": 10,
+    "atack_similarity": 2
+}

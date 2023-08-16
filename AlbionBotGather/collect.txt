@@ -1,0 +1,6 @@
+cx_Freeze
+pyautogui
+ultralytics
+requests
+opencv-python
+keyboard
